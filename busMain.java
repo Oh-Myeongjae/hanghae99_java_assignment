@@ -1,6 +1,6 @@
 package test;
 
-public class busMain {
+public class BusMain {
 	public static void main(String[] args) {		
 		Bus aBus = new Bus();
 		Bus bBus = new Bus();
